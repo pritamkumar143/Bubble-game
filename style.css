@@ -1,0 +1,9 @@
+
+body{
+    background-image: linear-gradient(to right top, #e7d1dd, #e5cce1, #dec8e7, #d3c5ef, #c3c4f6, #b2c9fc, #a0cfff, #8dd4ff, #83dfff, #7deaff, #7ef4fd, #88fdf6);
+}
+div{
+    padding-top: 2rem;
+    background-image: linear-gradient(to right top, #fe39a4, #df3eb0, #bc44b8, #964abb, #6b4db9, #5058bc, #3260bb, #0066b7, #0076b6, #0082ab, #008b9b, #15928a);
+    
+}
